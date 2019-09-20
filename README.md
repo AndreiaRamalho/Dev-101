@@ -1,6 +1,6 @@
 # 101 for Developer
 
-This repository is arranged accorndig the following architecture:
+This repository is arranged according the following architecture:
 
     | Root |
         |---- | Modules |
@@ -39,5 +39,5 @@ This are the modules that you can learn in this repository.
 
 For disclosure **I'm not a professor or something like that**.
 
-During the modules I will recommend some tutorials or tools. I didn't got sponsered or something like that, the recomendations for tutorials or tools are only using my experience wth them.
+During the modules I will recommend some tutorials or tools. I didn't got sponsered or something like that, the recomendations for tutorials or tools are only by my background experience with them.
     
